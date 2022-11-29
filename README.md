@@ -1,4 +1,4 @@
-# sme-bi-case-study-application
+# sme-dle-case-study-application
 For this stage of the application, we will ask you to create a screencast,  one corresponding explorable exercise for a specific portion of your case study outline and a wireframe for your entire outline. 
 
 ### Getting Started 
