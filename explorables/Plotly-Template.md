@@ -1,4 +1,4 @@
-# R with RShiny
+# Plotly
 
 ## :information_source: Read this before getting started
 - The goal of exercises in case study is for learners to apply what was learned previous courses to new problems or situations. This is best pedagogical practice for retaining and building skills. Since the courses covered are conceptual, students will rely on manipulating the interactive visualizations that you create to practice their skills.
